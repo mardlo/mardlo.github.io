@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Ciotolotta"
+date:   2015-10-08 15:39:40
+preview: /assets/pics/ciotola300x300.png
+---
+
+![La mia ciotolotta](/assets/pics/ciotola800x600.png)
+
+![La mia ciotoletta](/assets/pics/ciotola800x600.png)
+
+Bavaria ciotolum
