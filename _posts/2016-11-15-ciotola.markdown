@@ -7,6 +7,8 @@ preview: /assets/pics/ciotola300x300.png
 
 ![La mia ciotolotta](/assets/pics/ciotola800x600.png)
 
+bla bla
+
 ![La mia ciotoletta](/assets/pics/ciotola800x600.png)
 
 Bavaria ciotolum
