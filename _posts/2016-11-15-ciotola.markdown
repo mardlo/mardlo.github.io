@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ciotolotta"
+title:  "Bronze"
 date:   2015-10-08 15:39:40
-preview: /assets/pics/ciotola300x300.png
+preview: /assets/pics/antique300x300.png
 ---
 
 ![La mia ciotolotta](/assets/pics/ciotola800x600.png)
