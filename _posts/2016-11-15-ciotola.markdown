@@ -5,15 +5,15 @@ date:   2015-10-08 15:39:40
 preview: /assets/pics/antique300x300.png
 ---
 
-![La mia ciotolotta](/assets/pics/antiduesuperdetails800x600.png)
+![La mia ciotolotta](/assets/pics/bronze.png)
 
 work in progress
 
-![La mia ciotoletta](/assets/pics/antiquedetails800x600.png)
+![La mia ciotoletta](/assets/pics/bronze1.png)
 
 work in progress
 
-![La mia ciotoletta](/assets/pics/antiquedetailstwo800x600.png)
+![La mia ciotoletta](/assets/pics/bronze2.png)
 
 work in progress
 
@@ -21,14 +21,10 @@ work in progress
 
 work in progress
 
-![La mia ciotoletta](/assets/pics/antiquemarinedetails800x600.png)
+![La mia ciotoletta](/assets/pics/bronze3.png)
 
 work in progress
 
-![La mia ciotoletta](/assets/pics/antiquetwo800x600.png)
-
-work in progress
-
-![La mia ciotoletta](/assets/pics/antiquewooddetails800x600.png)
+![La mia ciotoletta](/assets/pics/bronze6.png)
 
 work in progress
