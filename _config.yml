@@ -1,6 +1,7 @@
 # Site settings
 title: Mardlo Art
 email: art.mardlo@gmail.com
+instagram: mar.dlo
 description: > # this means to ignore newlines until "baseurl:"
  Work in progress...Final website coming soon...
 baseurl: "" # the subpath of your site, e.g. /blog/
