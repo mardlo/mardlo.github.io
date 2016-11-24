@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: Marta D'Angelo
 permalink: /about/
 ---
 
