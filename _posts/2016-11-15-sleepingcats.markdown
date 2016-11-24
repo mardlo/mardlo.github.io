@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sleepingcats"
+title:  "sleeping cats"
 date:   2015-10-08 15:39:40
 preview: /assets/pics/breakfastcat300x300.png
 ---
