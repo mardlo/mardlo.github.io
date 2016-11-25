@@ -5,14 +5,43 @@ date:   2015-10-08 15:39:40
 preview: /assets/pics/accessories3-300x300.png
 ---
 
-![La mia ciotolotta](/assets/pics/accessories1-800x600.png)
+![La mia ciotolotta](/assets/pics/orecchini1-800x600.png)
 
-work in progress
+![La mia ciotolotta](/assets/pics/orecchini2-800x600.png)
 
-![La mia ciotolotta](/assets/pics/accessories2-800x600.png)
+![La mia ciotolotta](/assets/pics/orecchini3-800x600.png)
 
-work in progress
+![La mia ciotolotta](/assets/pics/orecchini4-800x600.png)
 
-![La mia ciotolotta](/assets/pics/accessories4-800x600.png)
+![La mia ciotolotta](/assets/pics/orecchini5-800x600.png)
 
-work in progress
+![La mia ciotolotta](/assets/pics/orecchini6-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini7-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini8-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini9-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini10-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini11-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini12-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini13-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini14-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini15-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini16-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini17-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini18-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini19-800x600.png)
+
+![La mia ciotolotta](/assets/pics/orecchini20-800x600.png)
+
