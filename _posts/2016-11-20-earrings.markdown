@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "accessories"
+title:  "earrings"
 date:   2015-10-08 15:39:40
 preview: /assets/pics/accessories3-300x300.png
 ---
