@@ -3,8 +3,6 @@ title: Mardlo Art
 email: art.mardlo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  "Kokoro wa katachi wo motome, katachi wa kokoro wo susumeru - Il cuore cerca la forma esteriore corretta, e la forma esteriore corretta corregge il cuore."
- 
- instagram @mar.dlo
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mardlo.com" # the base hostname & protocol for your site
 instagram_username: mar.dlo
