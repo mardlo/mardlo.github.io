@@ -7,8 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
  instagram @mar.dlo
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mardlo.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username: mardlo
 instagram_username: mar.dlo
 
 # Build settings
